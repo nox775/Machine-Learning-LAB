@@ -16,8 +16,7 @@ Acest repository conține portofoliul de laboratoare realizate în cadrul cursul
 
 ## 📂 Structura Laboratoarelor
 
-### 📘 Laborator 1: Introducere și Preprocesare [Verifică Titlul]
-*(Editează aici: De obicei acest lab acoperă încărcarea datelor, curățarea lor și poate un algoritm simplu precum k-NN)*
+### 📘 Laborator 1: Introducere și Preprocesare
 * **Obiectiv:** Familiarizarea cu mediul de lucru și analiza exploratorie a datelor.
 * **Dataset:** [Ex: Iris / Titanic / Housing]
 * **Concepte Cheie:**
@@ -25,16 +24,14 @@ Acest repository conține portofoliul de laboratoare realizate în cadrul cursul
     * Vizualizarea distribuțiilor.
     * Implementarea algoritmului **[Ex: k-Nearest Neighbors (k-NN)]**.
 
-### 📗 Laborator 2: Regresie [Verifică Titlul]
-*(Editează aici: De obicei Regresie Liniară simplă și multiplă)*
+### 📗 Laborator 2: Regresie
 * **Obiectiv:** Predicția valorilor continue folosind modele de regresie.
 * **Algoritmi:**
     * **Regresie Liniară Simplă & Multiplă**.
     * Evaluarea performanței (MSE, RMSE, R2 Score).
 * **Rezultate:** Vizualizarea liniei de regresie peste datele reale.
 
-### 📙 Laborator 3: Clasificare [Verifică Titlul]
-*(Editează aici: De obicei SVM, Arbori de Decizie sau Regresie Logistică)*
+### 📙 Laborator 3: Clasificare 
 * **Obiectiv:** Clasificarea datelor în categorii distincte.
 * **Algoritmi:**
     * **[Ex: Support Vector Machines (SVM) / Decision Trees]**.
@@ -57,19 +54,3 @@ Acest repository conține portofoliul de laboratoare realizate în cadrul cursul
     * Generarea **Dendrogramei** folosind metoda `ward` pentru a vizualiza structura ierarhică a grupărilor.
 
 ---
-
-## 🚀 Cum se rulează proiectele
-
-1.  **Clonează repository-ul:**
-    ```bash
-    git clone [https://github.com/userul-tau/nume-repo-tia.git](https://github.com/userul-tau/nume-repo-tia.git)
-    cd nume-repo-tia
-    ```
-
-2.  **Instalează dependențele:**
-    ```bash
-    pip install pandas numpy matplotlib seaborn scikit-learn scipy
-    ```
-
-3.  **Rulează notebook-urile:**
-    Poți deschide fișierele `.ipynb` folosind Jupyter Notebook local sau le poți încărca pe [Google Colab](https://colab.research.google.com/).
